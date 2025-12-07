@@ -1,0 +1,9 @@
+{
+  "id": "css-dasar",
+  "title": "CSS Dasar",
+  "desc": "Memahami cara kerja CSS, selector, properti dasar, dan bagaimana styling menempel ke HTML.",
+  "icon": "Feather",
+  "color": "blue",
+  "href": "/learning/css/css-dasar",
+  "level": "Module 1"
+}

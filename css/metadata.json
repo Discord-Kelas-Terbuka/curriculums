@@ -1,0 +1,10 @@
+{
+  "id": "css",
+  "title": "CSS",
+  "description": "Digunakan untuk mengatur tampilan dan layout HTML. Tanpa ini, web terasa seperti dokumen hukum tahun 1998.",
+  "icon": "FileCode",
+  "color": "blue",
+  "level": "Pemula",
+  "modules": 0,
+  "duration": "0 Jam"
+}

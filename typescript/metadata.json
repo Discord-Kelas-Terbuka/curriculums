@@ -1,0 +1,10 @@
+{
+  "id": "typescript",
+  "title": "TypeScript",
+  "description": "Superset JavaScript dengan sistem tipe statis agar kesalahan ketahuan sebelum bikin migrain di runtime.",
+  "icon": "FileCode",
+  "color": "indigo",
+  "level": "Pemula",
+  "modules": 0,
+  "duration": "0 Jam"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "mysql",
+  "title": "MySQL",
+  "description": "Sistem basis data relasional untuk menyimpan dan mengelola data secara terstruktur, tidak seperti folder random di desktop.",
+  "icon": "Database",
+  "color": "cyan",
+  "level": "Pemula",
+  "modules": 0,
+  "duration": "0 Jam"
+}

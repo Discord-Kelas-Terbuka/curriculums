@@ -1,0 +1,10 @@
+{
+  "id": "html",
+  "title": "HTML",
+  "description": "Bahasa markup untuk membangun struktur dasar web. Ini kerangka, bukan dekorasi.",
+  "icon": "FileCode",
+  "color": "orange",
+  "level": "Pemula",
+  "modules": 0,
+  "duration": "0 Jam"
+}

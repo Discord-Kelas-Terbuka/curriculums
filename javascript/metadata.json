@@ -1,0 +1,10 @@
+{
+  "id": "javascript",
+  "title": "JavaScript",
+  "description": "Bahasa pemrograman untuk membuat web menjadi interaktif dan sedikit berisik.",
+  "icon": "FileCode",
+  "color": "yellow",
+  "level": "Pemula",
+  "modules": 0,
+  "duration": "0 Jam"
+}

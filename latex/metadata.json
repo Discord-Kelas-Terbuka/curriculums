@@ -1,0 +1,10 @@
+{
+  "id": "latex",
+  "title": "LaTeX",
+  "description": "Sistem penulisan dokumen berbasis markup untuk teks ilmiah dan matematika yang serius dan tidak kenal kompromi.",
+  "icon": "Sigma",
+  "color": "emerald",
+  "level": "Pemula",
+  "modules": 0,
+  "duration": "0 Jam"
+}
