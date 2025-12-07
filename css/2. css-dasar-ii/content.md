@@ -6,15 +6,6 @@ Di tahap ini, CSS berhenti jadi cat tembok dan mulai jadi arsitektur. Salah sedi
 
 Layout menentukan **bagaimana elemen disusun** di halaman.
 
-@@CODE@@
-/_ Display dasar _/
-block /_ lebar penuh, baris baru _/
-inline /_ selebar konten, satu baris _/
-inline-block /_ inline tapi bisa diset ukuran _/
-none /_ tak terlihat, tak ada ruang _/
-
-@@CODE@@
-
 - `block` untuk struktur utama
 - `inline` untuk teks
 - `inline-block` untuk komponen kecil
@@ -23,8 +14,6 @@ none /_ tak terlihat, tak ada ruang _/
 @@INFO_START:Catatan Penting@@
 `display: none` menghapus elemen dari layout. `visibility: hidden` tidak.
 @@INFO_END@@
-
----
 
 ## Positioning
 
@@ -56,8 +45,6 @@ right: 20px;
 @@INFO_START:Kesalahan Umum@@
 Absolute tanpa parent positioned = chaos global.
 @@INFO_END@@
-
----
 
 ## Flexbox (Layout Favorit Manusia Waras)
 
@@ -93,8 +80,6 @@ flex-basis: 200px;
 Ingat: arah dulu, baru alignment. Manusia sering kebalik.
 @@INFO_END@@
 
----
-
 ## Responsive Design
 
 Web tidak hidup di satu ukuran layar saja. Terimalah.
@@ -120,8 +105,6 @@ margin: auto;
 - Tambahkan aturan untuk layar besar
 - Jangan desain desktop duluan kecuali mau frustrasi
 
----
-
 ## Responsive dengan Flexbox
 
 @@CODE@@
@@ -142,8 +125,6 @@ flex: 1 1 240px;
 @@INFO_START:Prinsip Sehat@@
 Biarkan layout beradaptasi. Jangan paksa piksel absolut.
 @@INFO_END@@
-
----
 
 ## Contoh Kasus Sederhana
 
@@ -172,8 +153,6 @@ Biarkan layout beradaptasi. Jangan paksa piksel absolut.
 </style>
 
 @@CODE@@
-
----
 
 ## Ringkasan Mental Model
 
