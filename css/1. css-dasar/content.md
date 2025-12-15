@@ -1,6 +1,6 @@
 ## Apa itu CSS?
 
-CSS (Cascading Style Sheets) mengatur tampilan HTML. HTML memberi struktur, CSS memberi baju — model yang layak pakai, bukan sisa karung.
+CSS (Cascading Style Sheets) mengatur tampilan HTML. HTML memberi struktur, CSS memberi baju. Model yang layak pakai, bukan sisa karung.
 
 ### Inti Singkat
 
@@ -23,8 +23,6 @@ font-size: 2rem;
 @@INFO_START:Catatan Cepat@@
 Jangan gunakan CSS untuk konten penting. Gunakan CSS untuk tampilan saja. Struktur tetap di HTML.
 @@INFO_END@@
-
----
 
 ## Cara Menyisipkan CSS
 
@@ -51,8 +49,6 @@ Jangan gunakan CSS untuk konten penting. Gunakan CSS untuk tampilan saja. Strukt
 Selalu gunakan file eksternal untuk proyek nyata. Cache browser menyukai itu.
 @@INFO_END@@
 
----
-
 ## Selector (Dasar)
 
 ### Tipe Selector
@@ -77,8 +73,6 @@ input[type="text"] {}
 - `.class` untuk reusable styling
 - `#id` untuk satu elemen unik (pakai hemat)
 - `element` untuk target tag langsung
-
----
 
 ## Properti Dasar
 
@@ -105,8 +99,6 @@ display: block; /_ inline, inline-block, flex, grid, none _/
 Gunakan inspector (F12). Jika sesuatu menghilang, cek display, visibility, dan z-index.
 @@INFO_END@@
 
----
-
 ## Specificity & Cascade (Singkat)
 
 - Inline style > ID selector > class/attribute/pseudo-class > element selector.
@@ -117,8 +109,6 @@ Gunakan inspector (F12). Jika sesuatu menghilang, cek display, visibility, dan z
 /_ Contoh spesifisitas _/
 #menu .item a { color: red; } /_ lebih spesifik daripada .item a _/
 @@CODE@@
-
----
 
 ## Contoh: HTML + CSS
 
@@ -149,8 +139,6 @@ Gunakan inspector (F12). Jika sesuatu menghilang, cek display, visibility, dan z
 @@INFO_START:Tip Efisien@@
 Buat file `variables` (CSS custom properties) bila ingin tema konsisten. Contoh: `:root { --brand: #3b82f6; }`.
 @@INFO_END@@
-
----
 
 ## Next Steps Singkat
 

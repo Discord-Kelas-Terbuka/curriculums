@@ -1,0 +1,9 @@
+{
+  "id": "js-dasar",
+  "title": "Javascript Dasar",
+  "desc": "Memahami cara kerja Javascript",
+  "icon": "Feather",
+  "color": "yellow",
+  "href": "/learning/css/css-dasar",
+  "level": "Module 1"
+}
